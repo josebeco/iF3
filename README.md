@@ -1,5 +1,5 @@
 # iF3
-iF3 a top down simple dodge the boxes game with 3 cars to choose from that all have diferent stats\
+iF3 um simples jogo top down de desviar de caixas com tres veiculos que tem stats diferentes\
 Significado dos stats:\
 \
 &emsp;Maximo de curva: Quanto ele pode virar em so um unico comando se for 3 por exemplo,ele pode fazer (ddd) e assim ir tres casas para direita;\
